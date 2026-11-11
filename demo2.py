@@ -1,5 +1,5 @@
 print("adding elements")
 a=7
 b=8
-sum=a+b
-print(sum)
+sub=a-b
+print(sub)
